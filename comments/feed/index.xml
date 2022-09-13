@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for IA×O	</title>
-	<atom:link href="https://vornone.github.io/testwordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://vornone.github.io/testwordpress</link>
+	<atom:link href="https://vornone.github.io/IAxO/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vornone.github.io/IAxO</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Aug 2022 09:16:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Sep 2022 03:26:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
